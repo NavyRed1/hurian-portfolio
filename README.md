@@ -1,7 +1,7 @@
 # Portfolio
 
 A data science / machine learning portfolio built with Next.js (App Router),
-Supabase (Postgres, Auth, Storage), and MDX case studies.
+Supabase (Postgres, Auth, Storage), and MDX case studies
 
 ## 1. Overview
 
